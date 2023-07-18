@@ -30,10 +30,12 @@ to poulate tables with profiles run:
 
 ```
 knex seed:run
-``````
+```
 
 ### Start server
+```
 node --watch index.js
+```
 
 ### Tech Stack
 - `bycryptjs` to ensure user password privacy
